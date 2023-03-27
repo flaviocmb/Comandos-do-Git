@@ -113,10 +113,6 @@ git branch -m master main
 git clone https://github.com/NOMEUSUARIO/PROJETO.git
 ```
 
-```
-git pull
-```
-
 </details>
 <details>
 <summary>Recebendo (pull) do GitHub (repositório remoto) após a primeira vez</summary>
