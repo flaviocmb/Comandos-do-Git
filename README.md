@@ -83,7 +83,7 @@ git checkout nova-branch
 
 </details>
 <details>
-<summary>Enviando (push) para o GitHub após a primeira vez - tríade do dia a dia</summary>
+<summary>Enviando (push) para o GitHub pela primeira vez</summary>
   
 ```
 git remote add origin https://github.com/NOMEDEUSUARIO/NOMEDOPROJETO.git
@@ -95,6 +95,22 @@ git branch -M main
 
 ```
 git push -u origin main
+```
+ 
+</details>
+<details>
+<summary>Enviando (push) para o GitHub após a primeira vez - tríade do dia a dia</summary>
+  
+```
+git add -A
+```
+
+```
+git commit -m “MENSAGEM”
+```
+
+```
+git push
 ```
  
 </details>
