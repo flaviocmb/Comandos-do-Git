@@ -100,4 +100,33 @@ git push -u origin main
 </details>
 <details>
 <summary>Renomeando branch de master para main</summary>
+
+```
+git branch -m master main
+```
+
+</details>
+<details>
+<summary>Recebendo (pull) do GitHub (repositório remoto) pela primeira vez</summary>
+
+```
+git clone https://github.com/NOMEUSUARIO/PROJETO.git
+```
+
+```
+git pull
+```
+
+</details>
+<details>
+<summary>Recebendo (pull) do GitHub (repositório remoto) após a primeira vez</summary>
+
+```
+git remote show origin
+```
+
+```
+git pull
+```
+
 </details>
